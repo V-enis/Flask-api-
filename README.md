@@ -1,8 +1,6 @@
 # Flask REST API
 
-This is a very simple REST API built with Flask. The API allows users to retrieve and add data to an SQLite database. 
-The tutorial followed was by Dave Gray on Youtube
-It includes two endpoints:
+Two endpoints:
 
 - **GET /api/users/**: Returns a list of all users in the database.
 - **POST /api/users/**: Adds a new user to the database.
